@@ -11,6 +11,7 @@ package latihanpbo;
  *  Nama : Muhammad Rifqu Abdillah
  *  Kelas: Pbo-IF1
  *  Nim : 10119042 
+ *  Deksripis : Program ini berisi tentang daftar film-film
  */
 public class PBO10119042Latihan32 {
     
